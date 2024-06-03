@@ -2,5 +2,5 @@
 interactive_console_output.xml
 resources/Constants.py
 
-resources/__pycache__/
+resources/__pycache__
 
