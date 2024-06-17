@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Login page related keywords
+Documentation    Bill page related keywords
 Library    SeleniumLibrary
 Variables  ../UIMap.py
 *** Variables ***

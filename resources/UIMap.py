@@ -4,7 +4,8 @@
 LoginPageMap = dict(
     LoginUsernameInputXpath = "xpath=/html/body/div[1]/div[3]/div[1]/div/form/div[1]/input",
     LoginPasswordInputXpath = "xpath=/html/body/div[1]/div[3]/div[1]/div/form/div[2]/input",
-    LoginLogInButtonXpath = "xpath=/html/body/div[1]/div[3]/div[1]/div/form/div[3]/input"
+    LoginLogInButtonXpath = "xpath=/html/body/div[1]/div[3]/div[1]/div/form/div[3]/input",
+    RegisterLink = "link:Register"
 )
 
 MainPageMap = dict(

@@ -15,3 +15,6 @@ Input User Password
 
 Click Login Button
     Click Button    ${LoginPageMap}[LoginLogInButtonXpath]
+
+Open Link To Register Page
+    Click Link    ${LoginPageMap}[RegisterLink]
